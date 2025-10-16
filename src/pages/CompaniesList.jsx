@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import AddCompany from "../component/AddCompany";
-import CompanyFilter from "../Component/CompanyFilter";
-import CompanyCard from "../Component/CompanyCard";
+import CompanyFilter from "../component/CompanyFilter";
+import CompanyCard from "../component/CompanyCard";
 
 const CompaniesList = () => {
   const [companies, setCompanies] = useState([]);

@@ -1,5 +1,5 @@
 import React from 'react';
-import CompaniesList from '.pages/CompaniesList';
+import CompaniesList from './pages/CompaniesList';
 
 function App() {
   return (

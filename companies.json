@@ -1,0 +1,22 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Google",
+      "industry": "Tech",
+      "location": "California"
+    },
+    {
+      "id": 2,
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "location": "Seattle"
+    },
+    {
+      "id": "b86a",
+      "name": "Nebula Technology",
+      "industry": "IT",
+      "location": "Pune"
+    }
+  ]
+}
